@@ -28,4 +28,4 @@
  
 </div>
   
-![Snake animation](https://https://github.com/HannaSantos/HannaSantos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://https://github.com/HannaSantos/HannaSantos/blob/output/dist/github-contribution-grid-snake.svg)
