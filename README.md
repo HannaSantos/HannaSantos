@@ -1,6 +1,7 @@
 ### Olá eu sou a Hanna Santos 👋
 
-- 🌱 Estudante Bandtec
+- 🌱 Estudante SPTech School
+- :office: Estagiária Valemobi - TredeMap
 - 😄 Pronomes: ela / dela
 - ⚡ Curiosidade: artista e tatuadora por hobby
 
