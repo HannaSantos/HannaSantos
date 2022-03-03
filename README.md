@@ -17,6 +17,8 @@
   <img align="center" alt="Hanna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Hanna-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Hanna-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+  <img align="center" alt="Hanna-sql" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/flutter.png" />
+  <img align="center" alt="Hanna-sql" height="30" width="40" src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v2.png" />
   <img align="right" alt="Hanna-pic" height="150" style="border-radius:50px;" src="http://pa1.narvii.com/6693/658a1912c3ccbe8c58224b50e6a9622023f3342d_00.gif">
 </div>
   
