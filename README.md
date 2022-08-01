@@ -1,7 +1,7 @@
 ### Olá eu sou a Hanna Santos 👋
 
 - 🌱 Estudante SPTech School
-- :office: Estagiária Valemobi - TredeMap
+- :office: Estagiária Quatá investimentos
 - 😄 Pronomes: ela / dela
 - ⚡ Curiosidade: artista e tatuadora por hobby
 
