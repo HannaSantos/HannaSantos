@@ -19,7 +19,7 @@
   <img align="center" alt="Hanna-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   <img align="center" alt="Hanna-sql" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/flutter.png" />
   <img align="center" alt="Hanna-sql" height="30" width="40" src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v2.png" />
-  <img align="right" alt="Hanna-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" />
+  <img align="right" alt="Hanna-pic" height="150" style="border-radius:50px" src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" />
 </div>
   
  ##
