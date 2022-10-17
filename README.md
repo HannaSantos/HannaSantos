@@ -35,4 +35,4 @@
   <img alt="Hanna-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" />
   
 
-![Snake animation](https://github.com/HannaSantos/HannaSantos/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake animation](https://github.com/HannaSantos/HannaSantos/blob/output/github-snake-dark.svg#gh-dark-mode-only)
