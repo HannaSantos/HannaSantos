@@ -1,6 +1,6 @@
 ### Olá eu sou a Hanna Santos 👋
 
-- 🌱 Estudante SPTech School
+- 🌱 Estudante SPTech School - Analise e desenvolvimento de sistema
 - :office: Estagiária Quatá investimentos
 - 😄 Pronomes: ela / dela
 - ⚡ Curiosidade: artista e tatuadora por hobby
@@ -34,3 +34,5 @@
   <br><br>
   <img alt="Hanna-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" />
   
+
+![Snake animation](https://github.com/HannaSantos/HannaSantos/blob/output/github-contribution-grid-snake.svg)
