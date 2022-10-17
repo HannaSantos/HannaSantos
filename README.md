@@ -25,7 +25,7 @@
   
  ##
   
-  [![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=java,spring,react,js,figma&theme=light)](https://skills.thijs.gg)
   
   <div> 
   <a href="https://www.instagram.com/napalmxx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
