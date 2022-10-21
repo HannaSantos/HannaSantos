@@ -16,6 +16,8 @@
   
   [![My Skills](https://skills.thijs.gg/icons?i=java,spring,docker,mysql,flutter,react,js,figma&theme=light)](https://skills.thijs.gg)
   
+  <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif">
+  
   ##
   
   <div> 
@@ -24,5 +26,5 @@
   <a href="https://www.linkedin.com/in/hanna-santos-671501229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  <br><br>
-  <img alt="Hanna-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" />
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
