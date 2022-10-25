@@ -1,11 +1,14 @@
-### <h3 align="center"> Olá eu sou a Hanna Santos 👋 </h3>
+### Olá eu sou a Hanna Santos 👋
+  
+   - 🌱 Estudante SPTech School - Analise e desenvolvimento de sistema
+   - :office: Estagiária Quatá investimentos
+   - 😄 Pronomes: ela / dela
+   - ⚡ Curiosidade: artista e tatuadora por hobby
 
-- 🌱 Estudante SPTech School - Analise e desenvolvimento de sistema
-- :office: Estagiária Quatá investimentos
-- 😄 Pronomes: ela / dela
-- ⚡ Curiosidade: artista e tatuadora por hobby
+##
 
-<div align="center">
+
+<div align="start">
   <a href="https://github.com/HannaSantos">
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannaSantos&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
@@ -16,6 +19,7 @@
   
   
  ##
+  <br>
   
   [![My Skills](https://skills.thijs.gg/icons?i=java,spring,docker,mysql,flutter,react,js,figma&theme=light)](https://skills.thijs.gg)
   
@@ -28,6 +32,3 @@
   <a href = "mailto:hanna.santos@bandtec.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hanna-santos-671501229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
