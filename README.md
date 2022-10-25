@@ -9,6 +9,8 @@
   <a href="https://github.com/HannaSantos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HannaSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannaSantos&layout=compact&langs_count=7&theme=dracula"/>
+  
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HannaSantos&theme=tokyonight"/> 
 </div>
   
   
