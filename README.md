@@ -1,4 +1,8 @@
-### Olá eu sou a Hanna Santos 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFBF00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Hanna+Santos;I'm+25+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  
+ ##
   
    - 🌱 Estudante SPTech School - Analise e desenvolvimento de sistema
    - :office: Estagiária Quatá investimentos
