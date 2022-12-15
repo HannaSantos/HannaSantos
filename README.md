@@ -47,7 +47,7 @@ My Skills:
 ##
 <br><br>
 
-<img align="right" width="350px" src="https://media.tenor.com/4_7eHoNWopMAAAAd/pixelated-gif.gif"/>
+<img align="right" width="300px" src="https://media.tenor.com/4_7eHoNWopMAAAAd/pixelated-gif.gif"/>
 
 <ul align="left">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HannaSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"> <br>
