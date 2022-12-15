@@ -50,7 +50,6 @@ My Skills:
 <img align="right" width="350px" src="https://media.tenor.com/4_7eHoNWopMAAAAd/pixelated-gif.gif"/>
 
 <ul align="left">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannaSantos&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"> <br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HannaSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"> <br>
      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HannaSantos&theme=tokyonight&hide_border=true">
 </ul>
