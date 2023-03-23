@@ -1,16 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=##9163F2&height=90&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9601A&height=90&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5005F2&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Hanna+Santos;I'm+25+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F2D43D&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Hanna+Santos;I'm+25+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br><br>
 
-<img align="right" src="https://i.pinimg.com/originals/c8/b8/c1/c8b8c16381e5560603a45e4dba84bb5c.gif" width="350px">
+<img align="right" src="https://thumbs.gfycat.com/FlakySillyArcticseal-size_restricted.gif" width="350px">
 
 <ul align="left">
-   <li> 🌱 Estudante SPTech School - Analise e desenvolvimento de sistema </li>
-   <li> :office: Estagiária Quatá investimentos </li>
-   <li> 😄 Pronomes: ela / dela </li>
-   <li> ⚡ Curiosidade: artista e tatuadora por hobby </li>
+   <li> 🌱 Student SPTech School - System analysis and development :mortar_board: 4/4 </li>
+   <li> :office: Development Assistant - Accenture Brasil </li>
+   <li> 😄 Pronouns: she/her </li>
+   <li> ⚡ Curiosity: artist and tattoo artist by hobby </li>
 </ul>
 
 <br>
@@ -32,29 +32,24 @@ My Skills:
 
 <br><br>
 
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=HannaSantos&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-
-<img align="right" src="http://pa1.narvii.com/6969/26668f0e2769c1e72ee52229815b9159bd5b902er1-251-251_00.gif" width="150px">
-
-<br><br><br><br>
-
-<div align="center">
-  <a href="https://www.instagram.com/napalmxx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:hanna.santos@bandtec.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hanna-santos-671501229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
-</div>
-
-<br><br><br><br>
+<ul  align="center">
+  <a href="https://www.instagram.com/napalmxx/" target="_blank">
+     <img src="https://img.shields.io/badge/-Instagram-F5921B?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:hanna.santos987@gmail.com">
+     <img src="https://img.shields.io/badge/-Gmail-F56811?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/hannasantos01/" target="_blank">
+     <img src="https://img.shields.io/badge/-LinkedIn-F54614?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+</ul>
 
 ##
-<br><br>
-
-<img align="right" width="300px" src="https://media.tenor.com/4_7eHoNWopMAAAAd/pixelated-gif.gif"/>
-
-<ul align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HannaSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"> <br>
-     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HannaSantos&theme=tokyonight&hide_border=true">
+<ul>
+  <a href="https://github.com/HannaSantos/github-readme-stats">
+   <img  width="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=HannaSantos&show_icons=true&theme=great-gatsby&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" /></a>
+  <a href="https://github.com/HannaSantos/convoychat">
+   <img  width="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannaSantos&theme=great-gatsby&layout=compact&hide_border=true&bg_color=00000000&hide=Makefile,Dart,html,Cmake,Swift&langs_count=8" /></a>
 </ul>
+
+<img align="right" src="https://i.pinimg.com/originals/f3/85/39/f38539a08585d9631a83e240c2907514.gif" width="350px">
 
 <br><br><br><br>
 
@@ -65,4 +60,4 @@ My Skills:
 
 <br><br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9163F2&height=90&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9601A&height=90&section=footer"/>
