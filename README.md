@@ -8,7 +8,7 @@
 
 <ul align="left">
    <li> 🌱 Student SPTech School - System analysis and development :mortar_board: 4/4 </li>
-   <li> :office: Development Assistant - Accenture Brasil </li>
+   <li> :office: Development FullStack - Getnet Brasil </li>
    <li> 😄 Pronouns: she/her </li>
    <li> ⚡ Curiosity: artist and tattoo artist by hobby </li>
 </ul>
