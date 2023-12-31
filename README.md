@@ -1,17 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9601A&height=90&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8404D9&height=90&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F2D43D&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Hanna+Santos;I'm+25+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8404D9&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Hanna+Santos;I'm+26+years+old;I'm+from+Brazil;Graduated+in+System+Analysis+and+Development;Studying+MBA+FullStack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br><br>
 
 <img align="right" src="https://thumbs.gfycat.com/FlakySillyArcticseal-size_restricted.gif" width="350px">
 
 <ul align="left">
-   <li> 🌱 Student SPTech School - System analysis and development :mortar_board: 4/4 </li>
+   <li> 🌱 Student at Impacta - MBA Full Stack Developer :mortar_board:</li>
    <li> :office: Development FullStack - Getnet Brasil </li>
    <li> 😄 Pronouns: she/her </li>
    <li> ⚡ Curiosity: artist and tattoo artist by hobby </li>
 </ul>
+
+<img align="right" src="https://pa1.aminoapps.com/6419/c2c784cb345428ef49f4daad6ae60088d4dac42c_00.gif" width="350px">
 
 <br>
 My Skills:
@@ -34,11 +36,11 @@ My Skills:
 
 <ul  align="center">
   <a href="https://www.instagram.com/napalmxx/" target="_blank">
-     <img src="https://img.shields.io/badge/-Instagram-F5921B?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+     <img src="https://img.shields.io/badge/-Instagram-8404D9?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:hanna.santos987@gmail.com">
-     <img src="https://img.shields.io/badge/-Gmail-F56811?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <img src="https://img.shields.io/badge/-Gmail-48048C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hannasantos01/" target="_blank">
-     <img src="https://img.shields.io/badge/-LinkedIn-F54614?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+     <img src="https://img.shields.io/badge/-LinkedIn-460273?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </ul>
 
 ##
@@ -49,7 +51,7 @@ My Skills:
    <img  width="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannaSantos&theme=great-gatsby&layout=compact&hide_border=true&bg_color=00000000&hide=Makefile,Dart,html,Cmake,Swift&langs_count=8" /></a>
 </ul>
 
-<img align="right" src="https://i.pinimg.com/originals/f3/85/39/f38539a08585d9631a83e240c2907514.gif" width="350px">
+<img align="right" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" width="350px">
 
 <br><br><br><br>
 
@@ -60,4 +62,4 @@ My Skills:
 
 <br><br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9601A&height=90&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=460273&height=90&section=footer"/>
