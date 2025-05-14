@@ -36,11 +36,11 @@ My Skills:
 
 <ul  align="center">
   <a href="https://www.instagram.com/napalmxx/" target="_blank">
-     <img src="https://img.shields.io/badge/-Instagram-8404D9?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+     <img src="https://img.shields.io/badge/-Instagram-F2B705?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:hanna.santos987@gmail.com">
-     <img src="https://img.shields.io/badge/-Gmail-48048C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <img src="https://img.shields.io/badge/-Gmail-D9A404?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hannasantos01/" target="_blank">
-     <img src="https://img.shields.io/badge/-LinkedIn-460273?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+     <img src="https://img.shields.io/badge/-LinkedIn-BF7E04?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </ul>
 
 ##
