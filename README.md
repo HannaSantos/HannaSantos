@@ -13,7 +13,7 @@
    <li> ⚡ Curiosity: artist and tattoo artist by hobby </li>
 </ul>
 
-<img align="right" src="https://pa1.aminoapps.com/6419/c2c784cb345428ef49f4daad6ae60088d4dac42c_00.gif" width="350px">
+<img align="right" src="https://static.wixstatic.com/media/97e739_e540419b53354d049e8f660759847391~mv2.gif" width="350px">
 
 <br>
 My Skills:
