@@ -51,7 +51,7 @@ My Skills:
    <img  width="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannaSantos&theme=great-gatsby&layout=compact&hide_border=true&bg_color=00000000&hide=Makefile,Dart,html,Cmake,Swift&langs_count=8" /></a>
 </ul>
 
-<img align="right" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" width="350px">
+<img align="right" src="https://usagif.com/wp-content/uploads/2022/hqgif/elmo-6-elmo-scared-on-fire-acegif.gif" width="350px">
 
 <br><br><br><br>
 
