@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8404D9&height=90&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF7E04&height=90&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F2B705&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Hanna+Santos;I'm+26+years+old;I'm+from+Brazil;Graduated+in+System+Analysis+and+Development;Studying+MBA+FullStack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F2B705&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Hanna+Santos;I'm+27+years+old;I'm+from+Brazil;Graduated+in+System+Analysis+and+Development;Studying+MBA+FullStack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br><br>
 
@@ -62,4 +62,4 @@ My Skills:
 
 <br><br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=460273&height=90&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF7E04&height=90&section=footer"/>
