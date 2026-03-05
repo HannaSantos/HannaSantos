@@ -34,6 +34,8 @@
 ![JUnit](https://img.shields.io/badge/-JUnit-0D1117?style=for-the-badge&logo=junit&labelColor=0D1117)&nbsp; 
 ![Mockito](https://img.shields.io/badge/-Mockito-0D1117?style=for-the-badge&logo=mockito&labelColor=0D1117)&nbsp;
 
+<br>
+
 - **Cloud & DevOps:** <br>
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp; 
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=aws&labelColor=0D1117)&nbsp;
@@ -41,11 +43,15 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-0D1117?style=for-the-badge&logo=ansible&labelColor=0D1117)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-0D1117?style=for-the-badge&logo=jenkins&labelColor=0D1117)&nbsp;
 
+<br>
+
 - **Databases:** <br>
 ![MySql](https://img.shields.io/badge/-MySql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp; 
 ![Oracle](https://img.shields.io/badge/-Oracle-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117)&nbsp; 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp; 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgre&labelColor=0D1117)&nbsp; 
+
+<br>
 
 - **Others:**  <br>
 ![Fortify](https://img.shields.io/badge/-Fortify-0D1117?style=for-the-badge&logo=fortify&labelColor=0D1117)&nbsp;
