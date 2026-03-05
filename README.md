@@ -63,7 +63,9 @@
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?HannaSantos=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HannaSantos&theme=dracula&hide_border=true" alt="Hanna's GitHub Streak" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=73030D&height=2&section=header" width="100%">
 
