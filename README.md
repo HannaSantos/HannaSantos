@@ -63,11 +63,15 @@
 
 <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=73030D&height=2&section=header" width="100%">
+
 <div align="center">
   <img src="https://i.imgur.com/OkeY6.gif" width="650px">
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=73030D&height=2&section=header" width="100%">
 
 ### 📫 Let's connect?
 
