@@ -3,12 +3,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BF0B2C&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Hanna+Santos;I'm+28+years+old;I'm+from+Brazil;Graduated+in+System+Analysis+and+Development;FullStack+Developer;Specialist+in+Banking+Systems+&+Security;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br><br>
+![Linha Colorida](https://github.com/PradnyaGautam/PradnyaGautam/blob/master/assets/rainbow-line.gif?raw=true)
+
+---
+
+- 🎓 **Postgraduate Degree:** MBA in Full Stack Developer (Impacta).
+- 📜 **Certifications:** Java Fundamentals, RESTful API with Spring Boot.
+- 🤟 **Brazilian Sign Language (Libras):** Knowledge of Brazilian Sign Language.
+- 😄 **Pronouns:** she/her
+- ⚡ **Curiosity:** artist and tattoo artist by hobby
 
 <img align="right" src="https://thumbs.gfycat.com/FlakySillyArcticseal-size_restricted.gif" width="350px">
 
 ---
 
-# 🛠️ My Skills:
+### 🛠️ My Skills:
 
 - **Programming Languages ​​& Frameworks:**
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
@@ -41,14 +50,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-0D1117?style=for-the-badge&logo=android&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-
----
-
-### 📊 Statistics and Certifications
-
-- 🎓 **Postgraduate Degree:** MBA in Full Stack Developer (Impacta).
-- 📜 **Certifications:** Java Fundamentals, RESTful API with Spring Boot.
-- 🤟 **Brazilian Sign Language (Libras):** Knowledge of Brazilian Sign Language.
 
 ---
 
