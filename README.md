@@ -75,9 +75,9 @@
 
 <p align="center"> 
   <br>
-  ✨ <i>Você é o visitante número  <br>
+  ✨ <i>Você é o visitante número  <br> <br>
     <img src="https://profile-counter.deno.dev/:HannaSantos:/count.svg" alt="Key:: Visitor's Count" /> 
-     <br> a passar por aqui!</i> ✨
+     <br> <br> a passar por aqui!</i> ✨
 </p>
 
 
