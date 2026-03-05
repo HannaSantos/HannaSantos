@@ -8,13 +8,13 @@
 
 <div>
 
+<img align="right" src="https://64.media.tumblr.com/25e24cda3a4f2c25a2586cb2eccfc223/886db1edfbdcc880-f5/s1280x1920/77834671d439b7e1d937531c7fc18bef53f8ad00.gifv" width="350px">
+
 - 🎓 **Postgraduate Degree:** MBA in Full Stack Developer (Impacta).
 - 📜 **Certifications:** Java Fundamentals, RESTful API with Spring Boot.
 - 🤟 **Brazilian Sign Language (Libras):** Knowledge of Brazilian Sign Language.
 - 😄 **Pronouns:** she/her
 - ⚡ **Curiosity:** artist and tattoo artist by hobby
-
-<img align="right" src="https://64.media.tumblr.com/25e24cda3a4f2c25a2586cb2eccfc223/886db1edfbdcc880-f5/s1280x1920/77834671d439b7e1d937531c7fc18bef53f8ad00.gifv" width="350px">
 
 </div>
 
