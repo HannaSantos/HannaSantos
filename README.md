@@ -76,7 +76,7 @@
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/HannaSantos/count.svg" alt="Visitors Count" />
   <br>
-  ✨ <i>Você é o visitante número <img src="https://profile-counter.glitch.me/HannaSantos/count.svg" alt="Visitors Count" /> a passar por aqui!</i> ✨
+  ✨ <i>Você é o visitante número <img src="https://profile-counter.deno.dev/:HannaSantos:/count.svg" alt="Key:: Visitor's Count" /> a passar por aqui!</i> ✨
 </p>
 
 <img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
