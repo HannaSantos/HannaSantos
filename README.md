@@ -23,7 +23,7 @@
 
 ### 🛠️ My Skills:
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Main_Stack-Java_%7C_SpringBoot_%7C_Quarkus_%7C_Kotlin_%7C_Reactjs_%7C_JavaScript_%7C_Flutter_%7C_JUnit_%7C_Mockito-red?style=for-the-badge">
   <br>
   <img src="https://img.shields.io/badge/Cloud_%26_DevOps-AWS_%7C_Azure_%7C_Docker_%7C_Ansible_%7C_Jenkins-db2721?style=for-the-badge">
@@ -32,17 +32,6 @@
   <br>
   <img src="https://img.shields.io/badge/Others-Fortify_%7C_Postman_%7C_Jira_%7C_GitHub_%7C_Android_%7C_Figma-8b0000?style=for-the-badge">
 </p>
-
-<br>
-
-
-- **Others:**  <br>
-![Fortify](https://img.shields.io/badge/-Fortify-0D1117?style=for-the-badge&logo=fortify&labelColor=0D1117)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=jira&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Android](https://img.shields.io/badge/-Android-0D1117?style=for-the-badge&logo=android&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
 <br>
 
