@@ -4,7 +4,7 @@
 
 <br><br>
 <p align="center">
-  <img src="https://64.media.tumblr.com/b3433675a63f33664361545620853f6c/tumblr_inline_p9u09mXv9A1rh9946_540.gifv" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKVUn7XYMgbzgB2/giphy.gif" width="50%">
 </p>
 
 ---
