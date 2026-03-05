@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Main_Stack-Java_%7C_SpringBoot_%7C_Quarkus_%7C_Kotlin_%7C_Reactjs_%7C_JavaScript_%7C_Flutter_%7C_JUnit_%7C_Mockito-red?style=for-the-badge">
   <br>
-  <img src="https://img.shields.io/badge/Cloud_DevOps-AWS_%26_Azure_%26_Docker_%26_Ansible_%26_Jenkins-db2721?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cloud_%26_DevOps-AWS_%7C_Azure_%7C_Docker_%7C_Ansible_%7C_Jenkins-db2721?style=for-the-badge">
   <br>
   <img src="https://img.shields.io/badge/Security-Fortify_%26_AppSec-8b0000?style=for-the-badge">
 </p>
