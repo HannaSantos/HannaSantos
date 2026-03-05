@@ -12,7 +12,7 @@
 - 😄 **Pronouns:** she/her
 - ⚡ **Curiosity:** artist and tattoo artist by hobby
 
-<img align="right" src="https://64.media.tumblr.com/bef358a2bd4c4d6efc7fd0ee1e7bc6fa/tumblr_mubu65G8Ze1s5i1lxo1_500.gif" width="350px">
+<img align="right" src="https://www.tumblr.com/tofupixel/tagged/pixel%20art%20gif" width="350px">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=73030D&height=2&section=header" width="100%">
 
