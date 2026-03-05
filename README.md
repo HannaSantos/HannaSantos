@@ -61,7 +61,7 @@
 ![Android](https://img.shields.io/badge/-Android-0D1117?style=for-the-badge&logo=android&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
-<img align="center" src="https://i.imgur.com/OkeY6.gif" width="450px">
+<img align="center" src="https://i.imgur.com/OkeY6.gif" width="550px">
 
 ---
 
