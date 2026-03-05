@@ -63,7 +63,7 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HannaSantos=anuraghazra&show=reviews)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HannaSantos=anuraghazra&hide=contribs,prs)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=73030D&height=2&section=header" width="100%">
 
