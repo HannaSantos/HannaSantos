@@ -23,6 +23,12 @@
 
 ### 🛠️ My Skills:
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Programming-Languages-&-Frameworks-Java_%7C_Spring_%7C_Quarkus_%7C_Quarkus-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cloud-AWS_%26_Azure-db2721?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Security-Fortify_%26_AppSec-8b0000?style=for-the-badge">
+</p>
+
 - **Programming Languages ​​& Frameworks:** <br>
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117)&nbsp;
