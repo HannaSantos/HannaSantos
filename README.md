@@ -25,20 +25,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main_Stack-Java_%7C_SpringBoot_%7C_Quarkus_%7C_Kotlin_%7C_Reactjs_%7C_JavaScript_%7C_Flutter_%7C_JUnit_%7C_Mockito-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Cloud-AWS_%26_Azure-db2721?style=for-the-badge">
+  <br>
+  <img src="https://img.shields.io/badge/Cloud_DevOps-AWS_%26_Azure_%26_Docker_%26_Ansible_%26_Jenkins-db2721?style=for-the-badge">
+  <br>
   <img src="https://img.shields.io/badge/Security-Fortify_%26_AppSec-8b0000?style=for-the-badge">
 </p>
-
-- **Programming Languages ​​& Frameworks:** <br>
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
-![JUnit](https://img.shields.io/badge/-JUnit-0D1117?style=for-the-badge&logo=junit&labelColor=0D1117)&nbsp; 
-![Mockito](https://img.shields.io/badge/-Mockito-0D1117?style=for-the-badge&logo=mockito&labelColor=0D1117)&nbsp;
 
 <br>
 
