@@ -4,9 +4,8 @@
 
 <br><br>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKVUn7XYMgbzgB2/giphy.gif" width="50%">
+  <img src="https://img.shields.io/badge/-—%20Skills%20—-pink?style=for-the-badge" />
 </p>
-
 ---
 
 - 🎓 **Postgraduate Degree:** MBA in Full Stack Developer (Impacta).
