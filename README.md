@@ -63,8 +63,8 @@
 
 <br>
 
-<div>
-  <img align="center" src="https://i.imgur.com/OkeY6.gif" width="550px">
+<div align="center">
+  <img src="https://i.imgur.com/OkeY6.gif" width="550px">
 </div>
 
 ---
