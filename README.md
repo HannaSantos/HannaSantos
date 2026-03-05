@@ -22,7 +22,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=73030D&height=2&section=header" width="100%">
 
 ### 🛠️ My Skills:
-
+<div>
 - **Programming Languages ​​& Frameworks:** <br>
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117)&nbsp;
@@ -63,7 +63,7 @@
 
 <br>
 
-<div>
+
   <img align="center" src="https://i.imgur.com/OkeY6.gif" width="550px">
 </div>
 
