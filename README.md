@@ -3,9 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BF0B2C&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Hanna+Santos;I'm+28+years+old;I'm+from+Brazil;Graduated+in+System+Analysis+and+Development;FullStack+Developer;Specialist+in+Banking+Systems+&+Security;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br><br>
-<p align="center">
-  <img src="https://img.shields.io/badge/-—%20Skills%20—-pink?style=for-the-badge" />
-</p>
+![Neon Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png)
 ---
 
 - 🎓 **Postgraduate Degree:** MBA in Full Stack Developer (Impacta).
