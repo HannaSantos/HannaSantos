@@ -3,7 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BF0B2C&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Hanna+Santos;I'm+28+years+old;I'm+from+Brazil;Graduated+in+System+Analysis+and+Development;FullStack+Developer;Specialist+in+Banking+Systems+&+Security;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br><br>
-![Linha Colorida](https://github.com/PradnyaGautam/PradnyaGautam/blob/master/assets/rainbow-line.gif?raw=true)
+<p align="center">
+  <img src="https://64.media.tumblr.com/b3433675a63f33664361545620853f6c/tumblr_inline_p9u09mXv9A1rh9946_540.gifv" width="100%">
+</p>
 
 ---
 
