@@ -28,27 +28,13 @@
   <br>
   <img src="https://img.shields.io/badge/Cloud_%26_DevOps-AWS_%7C_Azure_%7C_Docker_%7C_Ansible_%7C_Jenkins-db2721?style=for-the-badge">
   <br>
-  <img src="https://img.shields.io/badge/Security-Fortify_%26_AppSec-8b0000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Databases-MySql_%7C_Oracle_%7C_MongoDB_%7C_PostgreSQL-8b0000?style=for-the-badge">
+  <br>
+  <img src="https://img.shields.io/badge/Others-Fortify_%7C_Postman_%7C_Jira_%7C_GitHub_%7C_Android_%7C_Figma-8b0000?style=for-the-badge">
 </p>
 
 <br>
 
-- **Cloud & DevOps:** <br>
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp; 
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=aws&labelColor=0D1117)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=azure&labelColor=0D1117)&nbsp;
-![Ansible](https://img.shields.io/badge/-Ansible-0D1117?style=for-the-badge&logo=ansible&labelColor=0D1117)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-0D1117?style=for-the-badge&logo=jenkins&labelColor=0D1117)&nbsp;
-
-<br>
-
-- **Databases:** <br>
-![MySql](https://img.shields.io/badge/-MySql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp; 
-![Oracle](https://img.shields.io/badge/-Oracle-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117)&nbsp; 
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp; 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgre&labelColor=0D1117)&nbsp; 
-
-<br>
 
 - **Others:**  <br>
 ![Fortify](https://img.shields.io/badge/-Fortify-0D1117?style=for-the-badge&logo=fortify&labelColor=0D1117)&nbsp;
