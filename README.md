@@ -65,3 +65,8 @@ My Skills:
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF7E04&height=90&section=footer"/>
 
 ![Hanna's Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hanna%20Santos&fontSize=80&animation=fadeIn&fontAlignY=35)
+
+- **Linguagens:** Java (Spring Boot, Quarkus), Kotlin, Node.js, React.js.
+- **Cloud & DevOps:** AWS, Azure, Ansible, CI/CD (Jenkins/GitHub Actions).
+- **Segurança:** Fortify (AppSec), Identificação de Vulnerabilidades, Pentest (Learning).
+- **Bancos de Dados:** Oracle, MongoDB, PostgreSQL, SQL Server.
