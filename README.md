@@ -48,7 +48,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=73030D&height=2&section=header" width="100%">
 
 <div>
-  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/845ce9ba1f677dff966985745680719d-1704789550/Girl%20stream%204/make-character-nft-logo-background-or-anything-pixel-art.gif" width="250px">
+  <img align="left" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/845ce9ba1f677dff966985745680719d-1704789550/Girl%20stream%204/make-character-nft-logo-background-or-anything-pixel-art.gif" width="350px">
   
  <div align="right">
 
