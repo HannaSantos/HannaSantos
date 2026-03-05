@@ -24,7 +24,7 @@
 ### 🛠️ My Skills:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Main_Stack-Java_%7C_Spring_%7C_Quarkus_%7C_Quarkus-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Main_Stack-Java_%7C_SpringBoot_%7C_Quarkus_%7C_Kotlin_%7C_Reactjs_%7C_JavaScript_%7C_Flutter_%7C_JUnit_%7C_Mockito-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Cloud-AWS_%26_Azure-db2721?style=for-the-badge">
   <img src="https://img.shields.io/badge/Security-Fortify_%26_AppSec-8b0000?style=for-the-badge">
 </p>
