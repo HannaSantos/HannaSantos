@@ -24,7 +24,7 @@
 ### 🛠️ My Skills:
 
 <p>
-  <img src="https://img.shields.io/badge/Databases-MySql_%7C_Oracle_%7C_MongoDB_%7C_PostgreSQL-D99CA7?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Databases-MySql_%7C_Oracle_%7C_MongoDB_%7C_PostgreSQL-BF0413?style=for-the-badge">
   <br>
   <img src="https://img.shields.io/badge/Cloud_%26_DevOps-AWS_%7C_Azure_%7C_Docker_%7C_Ansible_%7C_Jenkins-BF0B2C?style=for-the-badge">
   <br>
