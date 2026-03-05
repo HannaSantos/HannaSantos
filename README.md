@@ -68,3 +68,11 @@
   </div>
  </div>
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=73030D&height=2&section=header" width="100%">
+
+<img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BF0413&height=90&section=footer"/>
