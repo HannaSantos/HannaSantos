@@ -39,10 +39,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HannaSantos&theme=dracula&hide_border=true" alt="Hanna's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/HannaSantos?template=classic&base.header=0&base.activity=0&base.community=0&display=regular&languages=1&languages.sections=most-used&languages.indepth=true&theme=dracula" width="100%" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=73030D&height=2&section=header" width="100%">
 
 <div align="center">
