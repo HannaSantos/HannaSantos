@@ -23,7 +23,7 @@
 
 ### 🛠️ My Skills:
 
-- **Programming Languages ​​& Frameworks:**
+- **Programming Languages ​​& Frameworks:** <br>
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -34,20 +34,20 @@
 ![JUnit](https://img.shields.io/badge/-JUnit-0D1117?style=for-the-badge&logo=junit&labelColor=0D1117)&nbsp; 
 ![Mockito](https://img.shields.io/badge/-Mockito-0D1117?style=for-the-badge&logo=mockito&labelColor=0D1117)&nbsp;
 
-- **Cloud & DevOps:**
+- **Cloud & DevOps:** <br>
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp; 
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=aws&labelColor=0D1117)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=azure&labelColor=0D1117)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-0D1117?style=for-the-badge&logo=ansible&labelColor=0D1117)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-0D1117?style=for-the-badge&logo=jenkins&labelColor=0D1117)&nbsp;
 
-- **Databases:**
+- **Databases:** <br>
 ![MySql](https://img.shields.io/badge/-MySql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp; 
 ![Oracle](https://img.shields.io/badge/-Oracle-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117)&nbsp; 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp; 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgre&labelColor=0D1117)&nbsp; 
 
-- **Others:** 
+- **Others:**  <br>
 ![Fortify](https://img.shields.io/badge/-Fortify-0D1117?style=for-the-badge&logo=fortify&labelColor=0D1117)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-0D1117?style=for-the-badge&logo=jira&labelColor=0D1117)&nbsp;
