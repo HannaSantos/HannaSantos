@@ -3,8 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BF0B2C&size=30&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Hanna+Santos;I'm+28+years+old;I'm+from+Brazil;Graduated+in+System+Analysis+and+Development;FullStack+Developer;Specialist+in+Banking+Systems+&+Security;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br><br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2&section=header" width="100%">
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=73030D&height=2&section=header" width="100%">
 
 - 🎓 **Postgraduate Degree:** MBA in Full Stack Developer (Impacta).
 - 📜 **Certifications:** Java Fundamentals, RESTful API with Spring Boot.
